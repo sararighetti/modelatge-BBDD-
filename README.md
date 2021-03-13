@@ -1,1 +1,0 @@
-# modelatge-BBDD-
